@@ -1,5 +1,7 @@
-# Cracker-Barrel-Peg-Puzzle
-How to Play the Peg Game
+# Cracker-Barrel-Peg-Puzzle 
+
+#How to play the Peg Game
+
 Place a peg in each of the holes of the game board. You’ll have one place on the board that won’t have a peg.
 
 Jump one peg over another to an open space and remove the one that was jumped. Keep doing this until only a single peg remains.
