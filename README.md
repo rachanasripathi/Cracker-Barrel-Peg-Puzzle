@@ -1,6 +1,6 @@
 # Cracker-Barrel-Peg-Puzzle 
 
-#How to play the Peg Game
+How to play the Peg Game
 
 Place a peg in each of the holes of the game board. You’ll have one place on the board that won’t have a peg.
 
